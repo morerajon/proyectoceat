@@ -1,0 +1,8 @@
+C:\proyectoCeat\Diseñologin1\bin\Debug\Diseñologin1.exe
+C:\proyectoCeat\Diseñologin1\bin\Debug\Diseñologin1.pdb
+C:\proyectoCeat\Diseñologin1\obj\x86\Debug\Diseñologin1.Login.resources
+C:\proyectoCeat\Diseñologin1\obj\x86\Debug\Diseñologin1.menu.resources
+C:\proyectoCeat\Diseñologin1\obj\x86\Debug\Diseñologin1.Properties.Resources.resources
+C:\proyectoCeat\Diseñologin1\obj\x86\Debug\ProyectoCeat.csproj.GenerateResource.Cache
+C:\proyectoCeat\Diseñologin1\obj\x86\Debug\Diseñologin1.exe
+C:\proyectoCeat\Diseñologin1\obj\x86\Debug\Diseñologin1.pdb
